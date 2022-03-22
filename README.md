@@ -2,4 +2,4 @@
 git course practice 
 
 
-##noites  
+## notes  
